@@ -1,4 +1,4 @@
-# Web-Dev_Todoist-App
+# Todo List App
 
 A Javascript app that keeps tracking to-do things.
 
